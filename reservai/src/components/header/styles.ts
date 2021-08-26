@@ -1,12 +1,15 @@
 import styled from "styled-components";
 
 export const ContainerHeader = styled.div`
-div.topo{
-background-color: black;
+
+.topo{
+    background: #2D4A22;
+    padding: 2rem 0 10rem;
+    text-align: center;
+    font-weight: normal;
 
     h1{
-        color: red;
-        text-align: center;
+        color: white;
     }
 }
 
